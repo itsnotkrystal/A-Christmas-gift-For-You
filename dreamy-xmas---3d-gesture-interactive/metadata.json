@@ -1,0 +1,8 @@
+
+{
+  "name": "Dreamy Xmas - 3D Gesture Interactive",
+  "description": "A high-end 3D Christmas experience featuring 7000+ instanced geometries, real-time hand gesture control via MediaPipe, and dreamy post-processing effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
